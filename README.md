@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/qrcodecomponent-oxBgbZI-2A))
+- Live Site URL: [live site]([https://your-live-site-url.com](https://nyynca.github.io/QR-code-component/))
 
 ## My process
 
@@ -48,4 +48,4 @@ I will continue practising flexbox but also how to simplfy code
 
 ### Useful resources
 
-- [Example resource 2](https://www.w3schools.com/css/css3_shadows.asp) - This is an amazing article which helped me finally understand shadows. I'd recommend it to anyone still learning this concept.
+- [W3schools](https://www.w3schools.com/css/css3_shadows.asp) - This is an amazing article which helped me finally understand shadows. I'd recommend it to anyone still learning this concept.
