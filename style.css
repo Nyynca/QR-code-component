@@ -17,7 +17,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #d5e1ef;
+    background-color: hsl(212, 45%, 89%)
 }
 main{
     max-width: 1440px;
